@@ -7,7 +7,7 @@ l = 5; %Number of SCF Block
 
 image = imread('Lena.png');
 
-noisy_image = im2double(imnoise(image, 'salt & pepper', noise_density));
+noisy_image = imnoise(image, 'salt & pepper', noise_density);
 
 tic
 denoised_image = MSCF(noisy_image, l);
