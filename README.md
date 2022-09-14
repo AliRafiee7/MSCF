@@ -1,7 +1,9 @@
 # MSCF
+
+## [A very fast and efficient multistage selective convolution filter for removal of salt and pepper noise](https://doi.org/10.1007/s12652-022-03747-7)
 This repository contains the MATLAB codes for the implementation of the paper "[A very fast and efficient multistage selective convolution filter for removal of salt and pepper noise](https://doi.org/10.1007/s12652-022-03747-7)".
 
-## Cite this article
+## Citation
 Rafiee, A.A., Farhang, M. A very fast and efficient multistage selective convolution filter for removal of salt and pepper noise. *J Ambient Intell Human Comput* (2022). https://doi.org/10.1007/s12652-022-03747-7
 
 [Download citation](https://citation-needed.springer.com/v2/references/10.1007/s12652-022-03747-7?format=refman&flavour=citation)
