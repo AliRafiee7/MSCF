@@ -17,4 +17,4 @@ In this paper we propose a multistage selective convolution filter (MSCF) for fa
 
 ## MSCF Architecture
 
-![](/figs/MSCF.png)
+![MSCF Architecture](/figs/MSCF.png)
